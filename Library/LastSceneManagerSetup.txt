@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Mario_5.unity
+  isLoaded: 1
+  isActive: 1
