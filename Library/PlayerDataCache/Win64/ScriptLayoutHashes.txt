@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-G:/School/Unity/Mario 2D Challenge/Build/Mario 2D Challenge.exe
+G:/School/Unity/Challeng2/Build (UPDATED)/Mario 2D Challenge.exe
 SceneListBegin?
 Assets/Scenes/Mario_5.unity
 SceneListEnd?
